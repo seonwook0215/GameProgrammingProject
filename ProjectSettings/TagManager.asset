@@ -4,9 +4,13 @@
 TagManager:
   serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
   tags:
   - Sword
   - Bow
+=======
+  tags: []
+>>>>>>> d8c0d68225df2b40ab1d6af77f019ebba64f419f
 =======
   tags: []
 >>>>>>> d8c0d68225df2b40ab1d6af77f019ebba64f419f
@@ -18,8 +22,13 @@ TagManager:
   - Water
   - UI
 <<<<<<< HEAD
+<<<<<<< HEAD
   - P1
   - P2
+=======
+  - 
+  - 
+>>>>>>> d8c0d68225df2b40ab1d6af77f019ebba64f419f
 =======
   - 
   - 

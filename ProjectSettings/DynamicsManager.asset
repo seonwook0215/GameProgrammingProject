@@ -4,16 +4,22 @@
 PhysicsManager:
   m_ObjectHideFlags: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   serializedVersion: 14
   m_Gravity: {x: 0, y: -9.81, z: 0}
   m_DefaultMaterial: {fileID: 0}
   m_BounceThreshold: 2
   m_DefaultMaxDepenetrationVelocity: 10
 =======
+=======
+>>>>>>> d8c0d68225df2b40ab1d6af77f019ebba64f419f
   serializedVersion: 13
   m_Gravity: {x: 0, y: -9.81, z: 0}
   m_DefaultMaterial: {fileID: 0}
   m_BounceThreshold: 2
+<<<<<<< HEAD
+>>>>>>> d8c0d68225df2b40ab1d6af77f019ebba64f419f
+=======
 >>>>>>> d8c0d68225df2b40ab1d6af77f019ebba64f419f
   m_SleepThreshold: 0.005
   m_DefaultContactOffset: 0.01
@@ -26,16 +32,22 @@ PhysicsManager:
   m_ClothInterCollisionStiffness: 0.2
   m_ContactsGeneration: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LayerCollisionMatrix: ffffffffffffffffffffffffffffffffffffffffffffffffbfffffff7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
   m_SimulationMode: 0
   m_AutoSyncTransforms: 0
   m_ReuseCollisionCallbacks: 0
   m_InvokeCollisionCallbacks: 1
 =======
+=======
+>>>>>>> d8c0d68225df2b40ab1d6af77f019ebba64f419f
   m_LayerCollisionMatrix: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
   m_AutoSimulation: 1
   m_AutoSyncTransforms: 0
   m_ReuseCollisionCallbacks: 0
+<<<<<<< HEAD
+>>>>>>> d8c0d68225df2b40ab1d6af77f019ebba64f419f
+=======
 >>>>>>> d8c0d68225df2b40ab1d6af77f019ebba64f419f
   m_ClothInterCollisionSettingsToggle: 0
   m_ClothGravity: {x: 0, y: -9.81, z: 0}
@@ -49,7 +61,10 @@ PhysicsManager:
   m_EnableEnhancedDeterminism: 0
   m_EnableUnifiedHeightmaps: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_ImprovedPatchFriction: 0
+=======
+>>>>>>> d8c0d68225df2b40ab1d6af77f019ebba64f419f
 =======
 >>>>>>> d8c0d68225df2b40ab1d6af77f019ebba64f419f
   m_SolverType: 0

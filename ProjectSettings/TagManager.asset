@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+<<<<<<< HEAD
+  tags:
+  - Sword
+  - Bow
+=======
+  tags: []
+>>>>>>> d8c0d68225df2b40ab1d6af77f019ebba64f419f
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+<<<<<<< HEAD
+  - P1
+  - P2
+=======
+  - 
+  - 
+>>>>>>> d8c0d68225df2b40ab1d6af77f019ebba64f419f
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -44,104 +44,78 @@ public class EnemyAI : MonoBehaviour
         {
             //Day 1 자원
             case 0:
-                Debug.Log(Day);
                 Instantiate(ResourceBuilding, position1, Quaternion.identity);
                 break;
             //Day 2 자원
             case 1:
-                Debug.Log(Day);
                 Instantiate(ResourceBuilding, position2, Quaternion.identity);
                 break;
             //Day 3 창   공격x
             case 2:
-                Debug.Log(Day);
                 Instantiate(LancerBuilding, position3, Quaternion.identity);
                 
                 break;
             //Day 4 자원
             case 3:
-                Debug.Log(Day);
                 Instantiate(ResourceBuilding, position4, Quaternion.identity);
                 break;
             //Day 5 검
             case 4:
-                Debug.Log(Day);
                 Instantiate(SwordBuilding, position5, Quaternion.identity);
                 break;
             //Day 6 창   공격o
             case 5:
-                Debug.Log(Day);
                 Instantiate(LancerBuilding, position6, Quaternion.identity);
                 TurnManager.instance.EnemyAttack = true;
                 Debug.Log("전쟁을 ㅣㅅ작하자");
                 break;
             //Day 7 궁
             case 6:
-                TurnManager.instance.EnemyAttack = false;
-                Debug.Log(Day);
                 Instantiate(ArcherBuilding, position7, Quaternion.identity);
                 break;
             //Day 8 검
             case 7:
-                Debug.Log(Day);
                 Instantiate(SwordBuilding, position8, Quaternion.identity);
                 break;
             //Day 9 창   공격o
             case 8:
-                Debug.Log(Day);
                 Instantiate(LancerBuilding, position9, Quaternion.identity);
                 TurnManager.instance.EnemyAttack = true;
                 break;
             //Day 10궁
             case 9:
-                TurnManager.instance.EnemyAttack = false;
-                Debug.Log(Day);
                 Instantiate(ArcherBuilding, position10, Quaternion.identity);
                 break;
             //Day 11검
             case 10:
-                Debug.Log(Day);
                 Instantiate(SwordBuilding, position11, Quaternion.identity);
                 break;
             //Day 12궁   공격o
             case 11:
-                Debug.Log(Day);
                 Instantiate(ArcherBuilding, position12, Quaternion.identity);
                 TurnManager.instance.EnemyAttack = true;
                 break;
             case 12:
-                TurnManager.instance.EnemyAttack = false;
-                Debug.Log(Day);
                 break;
             case 13:
-                Debug.Log(Day);
                 break;
             case 14:
-                Debug.Log(Day);
                 TurnManager.instance.EnemyAttack = true;
                 break;
             case 15:
-                TurnManager.instance.EnemyAttack = false;
-                Debug.Log(Day);
                 break;
             case 16:
-                Debug.Log(Day);
                 break;
             case 17:
-                Debug.Log(Day);
                 TurnManager.instance.EnemyAttack = true;
                 break;
             case 18:
-                TurnManager.instance.EnemyAttack = false;
-                Debug.Log(Day);
                 break;
             case 19:
-                Debug.Log(Day);
                 TurnManager.instance.EnemyAttack = true;
                 break;
             case 20:
-                Debug.Log(Day);
-                //TurnManager.instance.EnemyAttack = true;
+                TurnManager.instance.EnemyAttack = true;
                 break;
             //마지막 전투 후 끝
 
